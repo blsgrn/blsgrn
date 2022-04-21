@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blsgrn
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me blsgrn@tutanota.com
 
